@@ -1,0 +1,11 @@
+C:\Users\Jucinei\Documents\Testes BOts\FormFlowBot\DemoApi\bin\Debug\netcoreapp2.1\DemoApi.deps.json
+C:\Users\Jucinei\Documents\Testes BOts\FormFlowBot\DemoApi\bin\Debug\netcoreapp2.1\DemoApi.runtimeconfig.json
+C:\Users\Jucinei\Documents\Testes BOts\FormFlowBot\DemoApi\bin\Debug\netcoreapp2.1\DemoApi.runtimeconfig.dev.json
+C:\Users\Jucinei\Documents\Testes BOts\FormFlowBot\DemoApi\bin\Debug\netcoreapp2.1\DemoApi.dll
+C:\Users\Jucinei\Documents\Testes BOts\FormFlowBot\DemoApi\obj\Debug\netcoreapp2.1\DemoApi.csprojAssemblyReference.cache
+C:\Users\Jucinei\Documents\Testes BOts\FormFlowBot\DemoApi\obj\Debug\netcoreapp2.1\DemoApi.csproj.CoreCompileInputs.cache
+C:\Users\Jucinei\Documents\Testes BOts\FormFlowBot\DemoApi\obj\Debug\netcoreapp2.1\DemoApi.RazorAssemblyInfo.cache
+C:\Users\Jucinei\Documents\Testes BOts\FormFlowBot\DemoApi\obj\Debug\netcoreapp2.1\DemoApi.RazorAssemblyInfo.cs
+C:\Users\Jucinei\Documents\Testes BOts\FormFlowBot\DemoApi\obj\Debug\netcoreapp2.1\DemoApi.AssemblyInfoInputs.cache
+C:\Users\Jucinei\Documents\Testes BOts\FormFlowBot\DemoApi\obj\Debug\netcoreapp2.1\DemoApi.AssemblyInfo.cs
+C:\Users\Jucinei\Documents\Testes BOts\FormFlowBot\DemoApi\obj\Debug\netcoreapp2.1\DemoApi.RazorTargetAssemblyInfo.cache
